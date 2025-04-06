@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-Atari2600/blob/master/retroarch/overlay/GameBezels/Atari2600/Adventure%202%20(USA).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-Atari2600/blob/master/retroarch/overlay/GameBezels/Atari2600/3-D%20Tic-Tac-Toe%20(Europe).png?raw=true)
